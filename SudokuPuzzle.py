@@ -1,7 +1,7 @@
 import random
 from sys import argv
 
-random.seed(51800785)
+
 
 def createLatinSquare(n):
 	square = []

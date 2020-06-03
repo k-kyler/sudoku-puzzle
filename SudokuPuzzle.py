@@ -1,8 +1,6 @@
 import random
 from sys import argv
 
-
-
 def createLatinSquare(n):
 	square = []
 	for i in range(n):

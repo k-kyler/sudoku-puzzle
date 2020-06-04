@@ -1,1 +1,1 @@
-This is my simple Sudoku puzzle game
+This is my simple Sudoku puzzle game using Latin squares method
